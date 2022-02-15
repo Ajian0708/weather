@@ -1,4 +1,4 @@
-# weather
+# Vue3 weather Api
 
 ## Project setup
 ```
